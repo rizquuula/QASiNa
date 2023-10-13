@@ -78,3 +78,17 @@ There are two dataset format, in JSON and CSV format with the same data
     "context_title": "Penyebab Perang Badar (1)"
   }
 ```
+
+## Citation
+
+```
+@misc{rizqullah2023qasina,
+      title={QASiNa: Religious Domain Question Answering using Sirah Nabawiyah}, 
+      author={Muhammad Razif Rizqullah and Ayu Purwarianti and Alham Fikri Aji},
+      year={2023},
+      eprint={2310.08102},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
