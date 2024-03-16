@@ -82,13 +82,15 @@ There are two dataset format, in JSON and CSV format with the same data
 ## Citation
 
 ```
-@misc{rizqullah2023qasina,
-      title={QASiNa: Religious Domain Question Answering using Sirah Nabawiyah}, 
-      author={Muhammad Razif Rizqullah and Ayu Purwarianti and Alham Fikri Aji},
-      year={2023},
-      eprint={2310.08102},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+@INPROCEEDINGS{10390123,
+  author={Rizqullah, Muhammad Razif and Purwarianti, Ayu and Aji, Alham Fikri},
+  booktitle={2023 10th International Conference on Advanced Informatics: Concept, Theory and Application (ICAICTA)}, 
+  title={QASiNa: Religious Domain Question Answering Using Sirah Nabawiyah}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Sociology;Question answering (information retrieval);Task analysis;Statistics;Informatics;question answering;low resources;religious domain;mBERT;XLM-R;IndoBERT;Chat GPT;QASiNa},
+  doi={10.1109/ICAICTA59291.2023.10390123}}
 ```
 
