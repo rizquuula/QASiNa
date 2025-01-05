@@ -2,7 +2,9 @@
 
 ## Dataset Summary
 
-Question Answering Sirah Nabawiyah Dataset (QASiNa) is Extractive QA Dataset which build to perform QA task in Sirah Nabawiyah domain.
+Question Answering Sirah Nabawiyah Dataset (QASiNa) is Extractive QA Dataset which build to perform QA task in Sirah Nabawiyah domain. 
+
+Authors also created new dataset based on QASiNa-RC, called QASiNa-MC which can be accessed on [this link](https://github.com/rizquuula/QASiNa-MC)
 
 ## Languages
 
